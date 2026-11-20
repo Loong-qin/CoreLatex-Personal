@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f3f5f1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>CoreLatex</title>
+    <style>
+      html, body { margin: 0; padding: 0; background-color: #f3f5f1; }
+    </style>
+    <script>
+      // 首帧前应用外观偏好，避免深色/配色用户看到浅色闪烁。
+      (function () {
+        try {
+          var mode = localStorage.getItem('corelatex.theme') || 'light';
+          if (mode === 'system') mode = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          if (mode !== 'dark') mode = 'light';
+          var palette = localStorage.getItem('corelatex.palette') || 'sage';
+          if (['sage', 'mist', 'lilac', 'clay', 'teal', 'ink'].indexOf(palette) < 0) palette = 'sage';
+          var bg = {
+            'sage:light': '#f3f5f1', 'sage:dark': '#151a17',
+            'mist:light': '#f2f4f8', 'mist:dark': '#141920',
+            'lilac:light': '#f5f3f8', 'lilac:dark': '#191621',
+            'clay:light': '#f7f4ef', 'clay:dark': '#1d1814',
+            'teal:light': '#f1f5f4', 'teal:dark': '#131c1b',
+            'ink:light': '#f4f5f7', 'ink:dark': '#17191d'
+          }[palette + ':' + mode];
+          var root = document.documentElement;
+          root.classList.remove('light', 'dark');
+          root.classList.add(mode);
+          root.setAttribute('data-palette', palette);
+          root.style.backgroundColor = bg;
+          var meta = document.querySelector('meta[name="theme-color"]');
+          if (meta) meta.setAttribute('content', bg);
+        } catch (e) { /* 存储不可用时保持默认浅色 */ }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

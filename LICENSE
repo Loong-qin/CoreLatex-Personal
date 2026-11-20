@@ -1,0 +1,53 @@
+CoreLatex 个人非商业使用许可证（1.0）
+
+版权所有 © 2026 CoreLatex 各著作权人。
+
+1. 个人使用。著作权人免费许可自然人为本人的非商业学习、研究和写作，
+   下载、安装、运行和私下修改 CoreLatex，并制作个人备份。自托管可以
+   使用自己的计算机或自己控制的服务器，与他人合写论文也属于允许的
+   写作用途。按本条取得的软件实例仅限本人使用。
+
+2. 其他用途。团队、企业或机构共用一个实例，以组织名义部署，为他人
+   提供托管服务，以及商业使用或再分发本软件及其修改版，均需事先
+   取得著作权人的书面授权。授权联系：qinloong23@gmail.com。
+
+3. 适用范围。本许可适用于著作权人有权授权的 CoreLatex 原创内容。
+   请在软件副本中保留本许可及版权声明。第三方组件依其各自许可证
+   使用，仓库随附组件的声明见 THIRD_PARTY_NOTICES。用户对自己的
+   论文、图表和编译生成的 PDF 享有的权利不受
+   本许可限制。适用法律及 GitHub 服务条款已授予的权利（包括在
+   GitHub 上查看和 Fork 公开仓库）继续有效。
+
+4. 免责声明。在适用法律允许的范围内，本软件按现状提供，不附带
+   任何明示或默示的担保。著作权人不对使用本软件造成的损失承担责任。
+
+English translation — CoreLatex Personal Noncommercial Use License, v1.0
+
+Copyright © 2026 the respective CoreLatex copyright holders.
+
+1. Personal use. An individual may download, install, run, and privately
+   modify CoreLatex and make personal backups free of charge for their
+   own noncommercial learning, research, and writing. They may host it
+   on their own computer or a server they control and may use it to write
+   a paper with coauthors. Only that individual may use the instance
+   under this permission.
+
+2. Other uses. Prior written permission from the copyright holders is
+   required to share an instance within a team, company, or institution,
+   deploy it on behalf of an organization, host it for others, use it
+   commercially, or redistribute the software or modified versions.
+   Contact qinloong23@gmail.com for permission.
+
+3. Scope. This license covers original CoreLatex material that the
+   copyright holders have authority to license. Retain this license and
+   copyright notices in copies of the software. Third-party components
+   remain subject to their own licenses. See THIRD_PARTY_NOTICES for
+   notices covering bundled components. This license places no
+   restrictions on users' rights in their own papers, figures, or
+   compiled PDFs. Rights granted by applicable law or by the GitHub
+   Terms of Service, including viewing and forking a public repository
+   on GitHub, are preserved.
+
+4. Disclaimer. To the extent permitted by applicable law, the software
+   is provided as is, without express or implied warranties, and the
+   copyright holders are not liable for losses arising from its use.

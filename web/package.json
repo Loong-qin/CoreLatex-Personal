@@ -1,0 +1,41 @@
+{
+  "name": "corelatex-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@codemirror/autocomplete": "^6.18.0",
+    "@codemirror/commands": "^6.8.0",
+    "@codemirror/language": "^6.11.0",
+    "@codemirror/legacy-modes": "^6.5.0",
+    "@codemirror/search": "^6.5.8",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/view": "^6.36.0",
+    "@element-plus/icons-vue": "^2.3.2",
+    "codemirror": "^6.0.1",
+    "diff": "^9.0.0",
+    "echarts": "^6.1.0",
+    "element-plus": "^2.14.6",
+    "katex": "^0.18.7",
+    "marked": "^18.0.14",
+    "pdfjs-dist": "^4.10.38",
+    "pinia": "^2.3.1",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "y-codemirror.next": "^0.3.5",
+    "y-protocols": "^1.0.6",
+    "y-websocket": "^2.0.4",
+    "yjs": "^13.6.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "jsdom": "^25.0.1",
+    "vite": "^6.3.5",
+    "vitest": "^2.1.9"
+  }
+}

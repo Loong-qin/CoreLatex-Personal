@@ -1,0 +1,142 @@
+[
+  {
+    "query": "WaNet backdoor attack default poisoning rate 10% training samples",
+    "results": [
+      {
+        "title": "Under-confidence Backdoors Are Resilient and Stealthy Backdoors",
+        "url": "http://arxiv.org/abs/2202.11203v2",
+        "snippet": "By injecting a small number of poisoned samples into the training set, backdoor attacks aim to make the victim model produce designed outputs on any input injected with pre-designed backdoors. In order to achieve a high attack success rate using as few poisoned training samples as possible, most existing attack methods change the labels of the poisoned samples to the target class. This practice often results in severe over-fitting of the victim model over the backdoors, making the attack quite e"
+      },
+      {
+        "title": "A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning",
+        "url": "https://ieeexplore.ieee.org/document/8802997/",
+        "snippet": ""
+      },
+      {
+        "title": "Everyone Can Attack: Repurpose Lossy Compression as a Natural Backdoor Attack",
+        "url": "http://arxiv.org/abs/2308.16684v2",
+        "snippet": "The vulnerabilities to backdoor attacks have recently threatened the trustworthiness of machine learning models in practical applications. Conventional wisdom suggests that not everyone can be an attacker since the process of designing the trigger generation algorithm often involves significant effort and extensive experimentation to ensure the attack's stealthiness and effectiveness. Alternatively, this paper shows that there exists a more severe backdoor threat: anyone can exploit an easily-ac"
+      },
+      {
+        "title": "W arping - based",
+        "url": "https://arxiv.org/pdf/2102.10369",
+        "snippet": "Wanet – imperceptible warping-based back-door attack.Thereby, the backdoor training samples could not be removed from the training dataset using their proposed method."
+      },
+      {
+        "title": "(PDF) WaNet -- Imperceptible Warping-based Backdoor Attack",
+        "url": "https://www.researchgate.net/publication/349521069_WaNet_--_Imperceptible_Warping-based_Backdoor_Attack",
+        "snippet": "Thereby, the backdoor training samples could not be removed from. the training dataset using their proposed method. One possible explanation is that the distributional.WaNet backdoor models, using 8 randomly generated warping ﬁelds, in the CIFAR10 dataset."
+      },
+      {
+        "title": "GitHub - SCLBD/BackdoorBench · GitHub",
+        "url": "https://github.com/SCLBD/BackdoorBench",
+        "snippet": "cross_test_dataset: cross mode data during training(for some special backdoor attack: wanet, inputaware and so on).This is a demo script of running abl defense on cifar-10 for badnet attack. Before defense you need to run badnet attack on cifar-10 at first."
+      }
+    ]
+  },
+  {
+    "query": "biblatex biber backend documentation",
+    "results": [
+      {
+        "title": "Execution Envelopes: A Shared Admission Contract for Backend AI Execution Requests",
+        "url": "http://arxiv.org/abs/2605.08267v1",
+        "snippet": "Enterprise AI backends increasingly admit heterogeneous execution requests across model deployment, inference, evaluation, data movement, and agentic workflows. In many systems, those requests arrive in service-specific shapes, which makes it difficult to attach shared admission-time behavior such as logging, governance hints, resource accounting, authorization-aware policy hooks, and later runtime review without rebuilding the same contract in each subsystem. This paper introduces the execution"
+      },
+      {
+        "title": "backend=biber, style=numeric, sorting=none ]biblatex Metachromatic Leukodystrophy in Tanzania: A Case Study Highlighting Diagnostic Dilemmas and Clinical Implications",
+        "url": "https://www.authorea.com/doi/full/10.22541/au.175714215.53262782/v1",
+        "snippet": ""
+      },
+      {
+        "title": "backend=biber, style=numeric, sorting=none ]biblatex Similarities and differences in breeding ecology between two widely separated populations of Abdim’s Storks (Ciconia abdimii)",
+        "url": "https://www.authorea.com/doi/full/10.22541/au.175714572.26221554/v1",
+        "snippet": "<jats:p>An understanding of the ecological differences between disparate wildlife populations is important for determining different drivers of population change, especially for migratory species. We studied and compared the breeding ecology of two populations of Abdim’s Storks (Tigray Region, Ethiopia, and Bauchi State, Nigeria) separated by over 3,000 km. The breeding phenology of both populations was highly synchronised, with no statistical difference between nest initiation dates. The freque"
+      },
+      {
+        "title": "backend=biber, style=numeric, sorting=none ]biblatex Safeguarding a Flagship Species: Integrated Surveillance of Cross-Species Pathogen Transmission in Giant Panda Ecosystems",
+        "url": "https://www.authorea.com/doi/full/10.22541/au.175714775.50253212/v1",
+        "snippet": "<jats:p>Emerging infectious diseases, driven by increasing interactions among humans, wildlife, and livestock pose an escalating threat to global health, biodiversity, and economies. As a flagship endangered species, the giant panda plays a pivotal role in biodiversity conservation in China. This review synthesizes current knowledge on pathogens threatening giant panda health, including viruses, bacteria, and parasites alongside their potential transmission pathways within nature reserves. We em"
+      },
+      {
+        "title": "backend=biber, style=alphabetic, sorting=ynt ]biblatex Cognitive-Motor Conflict During Step Initiation: Neural and Biomechanical Insights into Freezing of Gait in Parkinson’s Disease",
+        "url": "https://www.authorea.com/doi/full/10.22541/au.174599873.37311429/v1",
+        "snippet": "<jats:p>Freezing of gait (FoG) is a disabling motor symptom in Parkinson’s disease (PD) characterized by brief episodes of inability to step, often triggered by cognitive-motor conflict. Step initiation (SI) involves anticipatory postural adjustments (APAs), which are critical for balance and movement preparation. This study aimed to investigate the neural and biomechanical correlates of FoG during SI under congruent and incongruent conditions, focusing on the supplementary motor area (SMA) and "
+      },
+      {
+        "title": "Bibliography management in LaTeX - Overleaf, Online LaTeX Editor",
+        "url": "https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX",
+        "snippet": "end{document}. BiblatexEx1OLV2.png. There are four bibliography-related commands in this exampleCreating and Managing Bibliographies with BibTeX on Overleaf. Biblatex package documentation. International language support."
+      },
+      {
+        "title": "CTAN: Package BibLaTeX",
+        "url": "https://www.ctan.org/pkg/biblatex?lang=en",
+        "snippet": "BibLaTeX uses its own data backend program called biber to read and process the bibliographic data. With biber, BibLaTeX has many features rivalling or surpassing other bibliography systems.Package documentation (German) [German]. Release notes for current version."
+      },
+      {
+        "title": "biber - Browse /biblatex-biber/2.19/documentation at SourceForge.net",
+        "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/2.19/documentation/",
+        "snippet": "Biber is a sophisticated bibliography processing backend for the LaTeX biblatex package.Support and documentation. After installing, biber --help will give you the basic documentation. The latest PDF documentation can be found here"
+      },
+      {
+        "title": "biber",
+        "url": "https://mirrors.sustech.edu.cn/CTAN/biblio/biber-ms/base/documentation/biber-ms.pdf",
+        "snippet": "biber --configfile=somefile.conf biber -g somefile.conf. 9. With the backend=biber option, Biblatex switches its backend interface and passes all options and information relevant to Biber’s operation in a control file with extension .bcf9."
+      }
+    ]
+  },
+  {
+    "query": "LaTeX 中文 字体 xeCJK 文档",
+    "results": [
+      {
+        "title": "Compiling LATEX to computer algebra-enabled HTML5",
+        "url": "http://arxiv.org/abs/1707.01271v1",
+        "snippet": "This document explains how to create or modify an existing LATEX document with commands enabling computations in the HTML5 output: when the reader opens the HTML5 output, he can run a computation in his browser, or modify the command to be executed and run it. This is done by combining different softwares: hevea for compilation to HTML5, giac.js for the CAS computing kernel (itself compiled from the C++ Giac library with emscripten), and a modified version of itex2MML for fast and nice rendering"
+      },
+      {
+        "title": "档案数字化管理在医院档案管理中的应用观察",
+        "url": "https://www.healthdig.cn/index.php/lbd-2-11-15712",
+        "snippet": "<jats:p>随着医疗行业信息化建设的深化,档案管理作为医院运营管理的核心环节,其数字化转型已成为提升管理效能的关键路径。本文以医院档案管理实践为观察对象,探讨档案数字化管理的应用价值,分析实践中的实施环节与现存问题,提出针对性优化方向。研究表明,档案数字化管理可显著提升医院档案检索效率与共享能力,缓解传统档案管理的存储与利用困境,但在数据安全、人员适配等方面仍存在挑战。推动档案数字化管理的规范化、精细化发展,是提升医院综合管理水平的重要支撑。</jats:p>"
+      },
+      {
+        "title": "Rendering LaTeX in R",
+        "url": "http://arxiv.org/abs/2504.21566v1",
+        "snippet": "The xdvir package provides functions for rendering LaTeX fragments as labels, annotations, and data symbols in R plots. There are convenient high-level functions for rendering LaTeX fragments, including labels on ggplot2 plots, plus lower-level functions for more fine control over the separate authoring, typesetting, and rendering steps. There is support for making use of LaTeX packages, including TikZ graphics. The rendered LaTeX output is fully integrated with R graphics output in the sense th"
+      },
+      {
+        "title": "Reproducible Science with LaTeX",
+        "url": "http://arxiv.org/abs/2010.01482v2",
+        "snippet": "This paper proposes a procedure to execute external source codes from a LaTeX document and include the calculation outputs in the resulting Portable Document Format (pdf) file automatically. It integrates programming tools into the LaTeX writing tool to facilitate the production of reproducible research. In our proposed approach to a LaTeX-based scientific notebook the user can easily invoke any programming language or a command-line program when compiling the LaTeX document, while using their f"
+      },
+      {
+        "title": "KTBox: A Modular LaTeX Framework for Semantic Color, Structured Highlighting, and Scholarly Communication",
+        "url": "http://arxiv.org/abs/2510.01961v1",
+        "snippet": "The communication of technical insight in scientific manuscripts often relies on ad-hoc formatting choices, resulting in inconsistent visual emphasis and limited portability across document classes. This paper introduces ktbox, a modular LaTeX framework that unifies semantic color palettes, structured highlight boxes, taxonomy trees, and author metadata utilities into a coherent system for scholarly writing. The framework is distributed as a set of lightweight, namespaced components: ktcolor.sty"
+      },
+      {
+        "title": "Latex 对中文字体设置的一些解决 - LitBro - 博客园",
+        "url": "https://www.cnblogs.com/LitBro/p/12074820.html",
+        "snippet": "Latex 对中文字体设置的一些解决.英文默认字体为：Computer Modern Roman [CMR]，由Donald Knuth创建，但是不支持中文，需要设置成支持中文的字体 - {来自：Egg's Blog}。"
+      },
+      {
+        "title": "LaTeX中文环境与字体设置-CSDN博客",
+        "url": "https://blog.csdn.net/EcoStride/article/details/105610747",
+        "snippet": "latex中英文字体设置.中文环境和字体风格设置. 可单独使用CTeX文档类、ctex宏包、xeCJK宏包来设置中文环境，如下："
+      },
+      {
+        "title": "xeCJK 宏包",
+        "url": "https://mirrors.sjtug.sjtu.edu.cn/ctan/macros/xetex/latex/xecjk/xeCJK.pdf",
+        "snippet": "2. 在引入 xeCJK 宏包之后只要设置 CJK 文字的字体就可以在文档中使用中日韩文字了。\\xeCJK_if_package_loaded_p:n 判断宏包是否被引入可用于文档正文中。"
+      },
+      {
+        "title": "LaTeX中文支持(xeCJK vs ctex) | 数值计算方法训练",
+        "url": "https://suepaper.github.io/math201/latex/latex_cn/",
+        "snippet": "目前在LaTeX中主要使用xeCJK和ctex两个宏包来实现中文支持，具体区别如下。xeCJK 是一个 XeLaTeX 宏包，用于排版中日韩（CJK）文字。"
+      },
+      {
+        "title": "LaTeX 中文排版指南：CTeX 与 xeCJK | MatNoble",
+        "url": "https://blog.matnoble.top/tech/latex/latex-support-chinese/",
+        "snippet": "CTeX 中文套装支持 CJK, xeCJK, CCT, TY 等多种中文 TeX 处理方式。xeCJK 是一个 XeLaTeX 宏包[4], 用于排版 CJK 文字, 包括字体选择和标点控制等."
+      }
+    ]
+  }
+]

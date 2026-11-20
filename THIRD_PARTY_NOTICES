@@ -1,0 +1,49 @@
+CoreLatex third-party notices
+
+The following third-party components are included in the CoreLatex source
+distribution. Each component is provided under its own terms.
+
+better-sqlite3 12.11.1
+---------------------
+docker/bins/better_sqlite3.node
+https://github.com/WiseLibs/better-sqlite3/tree/v12.11.1
+
+The MIT License (MIT)
+
+Copyright (c) 2017 Joshua Wise
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+SQLite 3.53.2 is compiled into the native module. The SQLite authors have
+dedicated the deliverable SQLite code to the public domain.
+https://www.sqlite.org/copyright.html
+
+ieeeconf.cls (PaperCept revision V1.6b, 2016-04-23)
+-------------------------------------------------
+docker/texlive-local/texmf/tex/latex/ieeeconf/ieeeconf.cls
+https://conf.papercept.net/conferences/support/tex.php
+
+Copyright (c) 1993-2002 by Gerry Murray, Silvano Balemi,
+                         Jon Dixion, Peter N\"uchter,
+                         Juergen von Hagen and Michael Shell
+
+The class was revised by Pradeep Misra. Its source retains the original
+copyright, contribution notices and disclaimers. The header identifies the
+Perl Artistic License. The original license text is available from Perl.org.
+https://dev.perl.org/licenses/artistic.html

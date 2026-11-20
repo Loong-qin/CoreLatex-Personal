@@ -1,0 +1,13 @@
+node_modules
+**/node_modules
+data
+dist
+**/dist
+.git
+.gitignore
+*.log
+Dockerfile
+docker-compose.yml
+docker-compose.debug.yml
+.dockerignore
+docker-debug
