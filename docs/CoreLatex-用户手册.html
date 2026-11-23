@@ -399,7 +399,7 @@ Table~\ref{tab:load} compares the loads of three paper bridges.
 <p>在 CoreAgent 输入框发送按钮旁点占用读数，展开 <strong>上下文窗口</strong>，查看 <strong>整体占用</strong> 及计算依据。模型服务返回的输入 Token 实测包含命中缓存的输入。带 <strong>≈</strong> 的百分比是预估值，任务运行时按最近一次模型请求的系统提示、工具和消息估算。任务结束后，应用按下次可回放的对话、摘要、系统提示和工具估算下一轮的占用。下轮会省去临时工具输出和旧预览图，因此占用可能下降。</p>
 <p>新一轮任务开始时，CoreAgent 会检查历史对话占用，必要时把较早的对话整理成摘要。会话空闲时也可点 <strong>压缩上下文</strong> 手动整理，原消息仍可在聊天记录中查看。生成摘要的模型用量计入「数据统计」。</p>
 </article><article id="chapter-3"><h1>安装与管理员指南</h1>
-<p>个人可以在自己的计算机或服务器上部署 CoreLatex，用于本人的非商业学习、研究和写作。团队共用或机构部署需另行取得书面授权。应用和 SQLite 可以部署在同一台机器，下面的命令以 Linux 和 Bash 为例。<a href="https://github.com/Loong-qin/CoreLatex-Personal/blob/main/LICENSE">个人非商业使用许可证</a></p>
+<p>CoreLatex 采用 <a href="https://github.com/Loong-qin/CoreLatex-Personal/blob/main/LICENSE">MIT 许可证</a>，支持个人、团队和企业自行部署。应用和 SQLite 可以部署在同一台机器，下面的命令以 Linux 和 Bash 为例。</p>
 <h2 id="section-3-1">用 Docker Compose 安装</h2>
 <p>在 Linux x86-64（amd64）主机准备 Docker Engine 和 Compose v2。在仓库的 <strong>Code</strong> 菜单复制克隆地址，或选择 <strong>Download ZIP</strong> 并解压。进入包含 <code>Dockerfile</code> 和 <code>docker-compose.yml</code> 的源码根目录。构建时需要能访问基础镜像、npm 和 Debian 软件源，Dockerfile 会尝试使用 <code>mirrors.aliyun.com</code> 安装 Debian 软件包。为 TeX Live 及项目文件留出磁盘空间。</p>
 <p>克隆和 GitHub 的源码 ZIP 均包含以下构建文件。请保留这些路径。</p>

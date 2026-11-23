@@ -2,7 +2,7 @@
 
 简体中文 · [English](README.en.md)
 
-CoreLatex 是一款自托管 LaTeX 编辑器，支持 PDF 编译和 CoreAgent 辅助改稿。个人可免费自托管，用于本人的非商业学习、研究和写作。团队共用、机构部署或商业使用请联系下方邮箱取得书面授权。[个人非商业使用许可证](LICENSE)
+CoreLatex 是一款开源的自托管 LaTeX 编辑器，支持 PDF 编译和 CoreAgent 辅助改稿。个人、团队和企业均可按 [MIT 许可证](LICENSE) 使用、修改和分发 CoreLatex，包括商业用途。
 
 - **演示视频**　[中文讲解](media/CoreLatex-AI-workflow-zh.mp4?raw=true) · [英文讲解](media/CoreLatex-AI-workflow-en.mp4?raw=true)（各 1 分 36 秒）
 - **用户文档**　[在线用户手册](docs/README.md) · [下载离线手册](docs/CoreLatex-用户手册.html?raw=true)

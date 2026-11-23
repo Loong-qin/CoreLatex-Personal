@@ -2,6 +2,7 @@
   "name": "corelatex",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "CoreLatex - 本地部署的 LaTeX 协作编辑与 AI 写作系统",
   "scripts": {

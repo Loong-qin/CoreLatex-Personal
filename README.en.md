@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · English
 
-CoreLatex is a self-hosted LaTeX editor with PDF compilation and CoreAgent-assisted editing. Individuals may host it free of charge for their own noncommercial learning, research, and writing. For team use, organizational deployment, or commercial use, contact the address below for written permission. [Personal Noncommercial Use License](LICENSE)
+CoreLatex is an open-source, self-hosted LaTeX editor with PDF compilation and CoreAgent-assisted editing. Individuals, teams, and companies can use, modify, and distribute CoreLatex, including commercially, under the [MIT License](LICENSE).
 
 - **Demo videos** · [English walkthrough](media/CoreLatex-AI-workflow-en.mp4?raw=true) · [Chinese walkthrough](media/CoreLatex-AI-workflow-zh.mp4?raw=true) (1 min 36 sec each)
 - **User documentation** · [Online handbook](docs/README.md) · [Download the offline handbook](docs/CoreLatex-用户手册.html?raw=true) (both in Chinese)

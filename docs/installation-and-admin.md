@@ -1,6 +1,6 @@
 # 安装与管理员指南
 
-个人可以在自己的计算机或服务器上部署 CoreLatex，用于本人的非商业学习、研究和写作。团队共用或机构部署需另行取得书面授权。应用和 SQLite 可以部署在同一台机器，下面的命令以 Linux 和 Bash 为例。[个人非商业使用许可证](../LICENSE)
+CoreLatex 采用 [MIT 许可证](../LICENSE)，支持个人、团队和企业自行部署。应用和 SQLite 可以部署在同一台机器，下面的命令以 Linux 和 Bash 为例。
 
 ## 用 Docker Compose 安装
 

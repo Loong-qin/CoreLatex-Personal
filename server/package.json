@@ -2,6 +2,7 @@
   "name": "corelatex-server",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
